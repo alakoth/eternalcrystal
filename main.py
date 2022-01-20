@@ -8,5 +8,5 @@ def generate(file):
         var2 = var2.strip()
         codename = f'{var1+var2}'
         revcodename = f'{var2+var1}'
-        print('CODENAME: ' + codename)
+        print('CODE NAME: ' + codename)
         print('ALTERNATE: ' + revcodename)
